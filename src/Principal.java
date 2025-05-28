@@ -35,11 +35,6 @@ public class Principal {
 
 
 
-//        com.aluracursos.screenmatch.modelos.Pelicula otraPelicula = new com.aluracursos.screenmatch.modelos.Pelicula();
-//        otraPelicula.nombre = "Matrix";
-//        otraPelicula.fechaDeLanzamiento = 1998;
-//        otraPelicula.duracionEnMinutos = 136;
-//        otraPelicula.muestraFichaTecnica();
 
 
     }
